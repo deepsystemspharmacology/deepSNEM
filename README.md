@@ -1,4 +1,7 @@
 # In Development phase
+
+DeepSNEM: Deep Signaling Network Embeddings for compound mechanism of action identification
+
 # deepSNEM
 Deep Signaling Network EMbeddings
 
